@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  unleash:
+  - apiVersion: v1
+    appVersion: "3.2"
+    created: "2020-03-15T22:20:48.401453+03:00"
+    description: Chart for Unleash, an open source feature flag & toggle system, that
+      gives you a great overview over all feature toggles across all your applications
+      and services
+    digest: 25007dde2c57fd3c2b9bce3398724f221f6158c8d8453f83e36e587f07efd6b6
+    home: https://github.com/titenkov/unleash-helm
+    keywords:
+    - unleash
+    - feature-toggle
+    name: unleash
+    sources:
+    - https://github.com/titenkov/unleash-helm
+    urls:
+    - https://github.com/titenkov/charts/releases/download/unleash-0.1.0/unleash-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-15T22:20:48.073846+03:00"
